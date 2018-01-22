@@ -1,0 +1,50 @@
+.Recipe {
+  text-align: left;
+}
+.Title {
+  font-weight: bold;
+  height: 40px;
+  background-color: white;
+  padding-left: 20px;
+  font-color: black;
+  width: 80%;
+  border: 1px solid #d2d2d2;
+}
+
+.Content {
+  font-weight: normal;
+  height: 100px;
+  background-color: white;
+  padding-left: 20px;
+  font-color: black;
+  width: 80%;
+  border: 1px solid #d2d2d2;
+}
+
+.Icon {
+  width:20px;
+  padding-right: 6px;
+  vertical-align: middle;
+}
+
+button {
+  margin: 20px 20px 20px 0px;
+  width: 100px;
+  height: 40px;
+  font-family: Open Sans;
+  font-weight: bold;
+  font-size: 14px;
+  cursor: pointer;
+  color: #212121;
+  border: 1px solid grey;
+  border-radius: 5px;
+  outline: none;
+}
+
+.Edit {
+  background-color: #4dd7f5;
+}
+
+.Delete {
+  background-color: #fa6b6b;
+}

@@ -1,0 +1,30 @@
+.Inputs textarea {
+  font-family: Open Sans;
+  width: 80%;
+  resize: none;
+  height:40px;
+  vertical-align: top;
+}
+
+.Inputs p {
+  font-family: Open Sans;
+  font-weight: bold;
+}
+
+.Ingredients {
+  height: 80px !important;
+}
+
+.Icon {
+  width:20px;
+  padding-right: 6px;
+  vertical-align: middle;
+}
+
+.Cancel {
+  background-color: #fa6b6b;
+}
+
+.Save {
+  background-color: rgba(30, 215, 26, 0.63);
+}

@@ -1,0 +1,52 @@
+.Main {
+  margin: 26px auto;
+  width:960px;
+  background-color: #b1b5b5;
+  padding:20px 20px 60px 20px;
+  font-family: Open Sans;
+}
+
+.New {
+  margin-top: 20px;
+  width: 100px;
+  height: 40px;
+  font-family: Open Sans;
+  font-weight: bold;
+  font-size: 14px;
+  cursor: pointer;
+  background-color: #31c240;
+  color: #212121;
+  border: 1px solid grey;
+  border-radius: 5px;
+  outline: none;
+}
+
+.Icon {
+  width:20px;
+  padding-right: 6px;
+  vertical-align: middle;
+
+}
+
+button:active {
+  box-shadow: 3px 3px #666;
+  transform: translateY(4px);
+  outline:none;
+  border:1px solid #9E9E9E;
+}
+
+.LogoText {
+  font-size: 40px;
+  margin: 26px auto;
+  width:960px;
+  color: #3c3c3c;
+  font-weight: bold;
+  font-family: Ubuntu, Open Sans;
+  text-align: center;
+}
+
+.Logo {
+  vertical-align: middle;
+  width: 60px;
+  padding-left: 10px;
+}

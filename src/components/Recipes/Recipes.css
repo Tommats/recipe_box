@@ -1,0 +1,28 @@
+.Recipes {
+  background-color: #edf7fc;
+  color: black;
+  line-height: 40px;
+  width: 100%;
+  vertical-align: middle;
+  font-size: 16px;
+  box-shadow: 5px 4px 4px #888888;
+}
+
+.title {
+    padding-left: 20px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.title:hover {
+    background-color: rgba(112, 168, 251, 0.5);
+}
+
+.RecipeActive {
+  display: block !important;
+  padding-left: 20px;
+}
+
+.RecipeNonActive {
+  display: none !important;
+}
